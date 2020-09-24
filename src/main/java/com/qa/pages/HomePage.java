@@ -1,6 +1,6 @@
 package com.qa.pages;
 
-public class TestPage {
+public class HomePage {
 	public void testPage() {
 		System.out.println("Page folder");
 	}
